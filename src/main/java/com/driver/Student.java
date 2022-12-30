@@ -10,7 +10,7 @@ public class Student {
 
     }
 
-    public String getName() {a
+    public String getName() {
         return name;
     }
 
